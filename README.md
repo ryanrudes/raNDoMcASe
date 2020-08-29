@@ -3,6 +3,8 @@ An useless, esoteric programming language.
 
 raNDoMcASe is an esoteric, turing-complete programming language based in an equally-ridiculous language, Brain\*\*\*\*.
 
+# How it works
+
 While it is organized differently, the instructions included in this language serve identical purposes as those in its base-language.
 
 To explain how raNDoMcASe works, it is probably helpful to explain how its base-language works. Brain\*\*\*\* is a minimalist programming language comprised by just 8 instructions. These instructions allow us to make modifications to a stack of memory/data cells, each storing a particular value.
@@ -38,7 +40,9 @@ Here is one of many possible "Hello World!" programs in raNDoMcASe, as well as i
 **Brain\*\*\*\***: `>+++++++++[<++++++++>-]<.>+++++++[<++++>-]<+.+++++++..+++.>>>++++++++[<++++>-]<.>>>++++++++++[<+++++++++>-]<---.<<<<.+++.------.--------.>>+.>++++++++++.` \
 **Output**: `Hello World!`
 
-How to use:
+---------
+
+# How to use
  1. Place the file *"raNDoMcASe_cOmPiLeR.py"* in the directory: `/usr/local/bin/`
  2. `cd` into the directory with the file, *"raNDoMcASe.sh"*, and execute: `source raNDoMcASe.sh`
  3. Write raNDoMcASe code, and store it in a file with the extension: `.raNDoM`, ie. `MyCode.raNDoM`

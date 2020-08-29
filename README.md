@@ -37,3 +37,9 @@ Here is one of many possible "Hello World!" programs in raNDoMcASe, as well as i
 **raNDoMcASe**: `yEeT WHO ARE YOU *oOf CRIES C(oNstANtly) IN yeeTe(d identity)*oOf.Yeet(.com)IS AN EXC(ellent website)*oof VISI(T pls)yEeT a(ll done)*OofW.HE(rE) AM I TO(daY)..(?)HMM(pSt..).YEET Yeet yeet NOW (I'm) BORED*(dead and feeling like) OOf INSI(de...) YEET f(inally, then loop is over. that took a long time to figure out how to write...)* oof.(.. only half-way done) yeet Yeet YEET THESE (yeets) ARE SO(ooo) (rEpEtiTive) *oOf(,) NO PATIENC(e remaining) yeet (almost don)e* oof(... but not that cl)ose.(..) oof (not) Oof (storage) OOF (EFFICIENT!) OOF (ENOUGH!!!).WHY.(?!?)so much.annoying.(..) yeet yeet (we're almost ther)E. Yeet(Again) ANGERERYYY.(ok finally, we're done)` \
 **Brain\*\*\*\***: `>+++++++++[<++++++++>-]<.>+++++++[<++++>-]<+.+++++++..+++.>>>++++++++[<++++>-]<.>>>++++++++++[<+++++++++>-]<---.<<<<.+++.------.--------.>>+.>++++++++++.` \
 **Output**: `Hello World!`
+
+How to use:
+ 1. Place the file *"raNDoMcASe_cOmPiLeR.py"* in the directory: `/usr/local/bin/`
+ 2. `cd` into the directory with the file, *"raNDoMcASe.sh"*, and execute: `source raNDoMcASe.sh`
+ 3. Write raNDoMcASe code, and store it in a file with the extension: `.raNDoM`, ie. `MyCode.raNDoM`
+ 4. Execute the code with: `yeet MyCode.raNDoM`

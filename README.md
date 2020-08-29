@@ -5,7 +5,7 @@ raNDoMcASe is an esoteric, turing-complete programming language based in an equa
 
 While it is organized differently, the instructions included in this language serve identical purposes as those in its base-language.
 
-To explain how raNDoMcASe works, it is probably helpful to explain how its base-language works. Brain\*\*\*\* is a minimalist programming language comprised by just 8 instructions. These instructions allowus to make modifications to a stack of memory/data cells, each storing a particular value.
+To explain how raNDoMcASe works, it is probably helpful to explain how its base-language works. Brain\*\*\*\* is a minimalist programming language comprised by just 8 instructions. These instructions allow us to make modifications to a stack of memory/data cells, each storing a particular value.
  1. `>`: Moves the pointer to the right
  2. `<`: Moves the pointer to the left
  3. `+`: Increments the data cell at the pointer

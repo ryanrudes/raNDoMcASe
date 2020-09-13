@@ -1,5 +1,5 @@
 # raNDoMcASe
-An useless, esoteric programming language.
+A useless, esoteric programming language.
 
 raNDoMcASe is an esoteric, turing-complete programming language based in an equally-ridiculous language, Brain\*\*\*\*.
 

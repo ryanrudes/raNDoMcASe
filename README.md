@@ -21,8 +21,8 @@ To explain how raNDoMcASe works, it is probably helpful to explain how its base-
 
  1. Comments are ignored, and are surrounded by parenthesis: *(I am a comment.)*
  2. Whitespace (spaces, tabs, and new lines) are all ignored, regardless of there placement in the code
- 3. `yeet`: Regarding of capitalization (`yeet`, `Yeet`, `yEeT`, etc.), this instruction moves the pointer to the right
- 4. `oof`: Regarding of capitalization (`oof`, `Oof`, `OOf`, etc.), this instruction moves the pointer to the left
+ 3. `yeet`: Regardless of capitalization (`yeet`, `Yeet`, `yEeT`, etc.), this instruction moves the pointer to the right
+ 4. `oof`: Regardless of capitalization (`oof`, `Oof`, `OOf`, etc.), this instruction moves the pointer to the left
  5. **Uppercase letters** (`A`, `B`, `C`, ..., `Z`): Increments the data cell at the pointer
  6. **Lowercase Letters** (`a`, `b`, `c`, ..., `z`): Decrements the data cell at the pointer
  7. `.` (full stop/period): Outputs the character representation of the cell at the pointer
